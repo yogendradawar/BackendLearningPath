@@ -1,0 +1,17 @@
+{
+  "name": "sheryiansbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AllFundamentalsOfJS.js",
+  "scripts": {
+    "start": "node NpmBasicsAndAdvanced.js",
+    "hero": "echo \"Mera Dost\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yogendra Dawar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "one-liner-joke": "^1.2.2"
+  }
+}

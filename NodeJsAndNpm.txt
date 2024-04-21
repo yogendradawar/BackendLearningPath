@@ -1,0 +1,61 @@
+//#2
+
+// Node.js Basics:
+// Introduction to Node.js.
+// Installing Node.js and npm.
+
+// node & npm 
+// working with node and npm
+// npm init
+// node basic usage
+
+// Working with modules.
+
+// File system operations.
+// Understanding HTTP module
+----------------------------------------------------------------
+
+// Node js??
+
+    // programming Language X
+    // technology X
+    // framework X
+    // library X
+    // ----> js runtime environment  YESYESYE
+
+        // js se backend nhi bn sakta
+        // kyuki js ke pass vo functionalites nhi hai jinse backend bnta hai
+        // ryan dahl isne socha js se backend banna chahiye
+        // google chrome ka v8 engine ka code open source hai and ryan dal us code maine chhedkhaani kar raha hai
+        // kyuki chrome ka v8 engine bana hai c++ maine
+        // fir usne socha ki humein to js maine code karna hai 
+
+
+        // hum js ka code likhege jo ki Wrapper layer of js receive karegi and wo code v8 engine ke c++ modules ke saath ek server create karega
+
+        // nodejs is a js runtime environment
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+// NPM ??
+
+    //package store
+    // kisi or ka code ishki help se use kr shkte hai yeh ek library ki ka hai jha or saare code mil jayenge
+
+    //create node js project through npm init 
+    // npm init -> package.json -> lekha jokha of the package.json
+
+-------------------------------------------------------------------------
+
+
+HTTP another module (server creation // internet working)
+
+http and https 
+
+    protocol - rule?
+        internet par kuch bhi karne ke liye rules banaaye gaye hai unke dwaara jinhone internet banaaya hai, ab un rules ko follow karna jaruri hai, aur yeh rules follow ho isliye ye rules aap ke operating system ke software mein pre installed aate hai
+
+    HTTP-protocol ??
+        yahi protocol hai ya rule hai jisko follow kare bina aap internet pe naa hi kuchh bhej sakte ho, naa hai kuchh manga sakte ho
+
