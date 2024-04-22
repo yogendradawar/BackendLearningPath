@@ -6,6 +6,7 @@
 
     // express js ek npm package hai
     // framework
+    // we create a route
     // manages everything from receiving the request and giving the response
 
 //Setting up a basic Express application.
