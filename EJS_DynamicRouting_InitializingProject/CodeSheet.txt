@@ -1,0 +1,40 @@
+intialize  a project with npm
+express install
+
+setting up parse for form 
+
+  these is parse
+  const express = require('express');
+  const app = express();
+
+setting up ejs for ejs pages
+
+  ejs like html were we perform the task like any calculation like dynamic 
+  1. install ejs from npm
+  2. setup ejs as a view engine
+
+
+setting up public static files
+
+
+dynamic routing
+  dynamic routing
+
+    hum log kai baar kuchh routes dekhte hai unmein sirf ek hi hissa change hota hai 
+    /author/yogendra
+    /author/harshi
+    /author/naina
+    /author/shera
+
+    /profile/yogendra/
+    /profile/sdfsfsf
+
+    /like/sdfsdff/sdfsdffsd
+
+    1.sb se pehle browser par jaao
+    2.url likhiye apna jo aapko chahiye and enter dabaaiye
+    3.ab us url route ko create kariye
+    4.res bhejiye kuch bhi
+    5.ab usi url ko agar dynamic banaana hai to realise karo konsa part dynamic hai aur us part ke aage route mein : laga do
+
+  how to get data coming from frontend at backend route
