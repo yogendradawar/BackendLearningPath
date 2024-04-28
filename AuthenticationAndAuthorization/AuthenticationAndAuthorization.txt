@@ -1,0 +1,13 @@
+#14
+
+user ko profile dene se pahle ye check karna hota hai ke user hai kaun - authentication
+
+authorized to perform some tasks which are only allowed to be executed by the admin 
+
+Server har baar bhool jata hai ki aap kaun ho, ab kyuki server bhool jaata hai aap kaun ho to har baar wo har kaam ke liye aapse puchhega aap kaun ho
+
+
+sabse pahle humein kuchh  cheejein seekhni hai alag alag
+1) cookie kaise set karte hai 
+2) bcrypt kaise use karte hai for password encryption and decryption
+3) jwt kya hai and jwt mein data kaise store karein and baahar nikaalein
