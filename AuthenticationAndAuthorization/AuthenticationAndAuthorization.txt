@@ -8,6 +8,16 @@ Server har baar bhool jata hai ki aap kaun ho, ab kyuki server bhool jaata hai a
 
 
 sabse pahle humein kuchh  cheejein seekhni hai alag alag
-1) cookie kaise set karte hai 
-2) bcrypt kaise use karte hai for password encryption and decryption
-3) jwt kya hai and jwt mein data kaise store karein and baahar nikaalein
+    1) cookie kaise set karte hai and read karte hai 
+
+    2) bcrypt kaise use karte hai for password encryption and decryption
+        password --->  qbttxpse
+
+        $2b$10$uV0fkJI/eG.RTml4bQZWIORgLX8238rgCMtxY1oEgvjpwFxalhLmS
+        poloploplo  
+
+
+    3) jwt kya hai and jwt mein data kaise store karein and baahar nikaalein
+
+        jwt teen hisso se banta hai 
+        jwt -> jsonwebtokens 
