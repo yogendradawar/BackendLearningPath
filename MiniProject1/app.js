@@ -1,8 +1,10 @@
 const express = require('express');
 const app = express();
 const userModel = require('./models/user');
+const postModel = require('./models/post');
 const cookieParser = require('cookie-parser');
 const bcrypt = require('bcrypt');
+const jwt = require('jsonwebtoken')
 
 app.set("view engine", "ejs");
 app.use(express.json());
@@ -29,7 +31,11 @@ app.post('/register',async (req,res)=>{
                 email,
                 password : hash,
                 age
-            })
+            });
+
+            let token = jwt.sign({email : email , userid : user._id},"private");
+            res.cookie("token",token);
+            res.send("registered");
         })
     })
 })
